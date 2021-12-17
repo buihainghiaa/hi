@@ -8,6 +8,6 @@ const contentCard = 'Đây là một cô bé dễ thươngg 🥰🤗🤪';
 // Cần hỗ trợ hãy liên hệ: 
 // Mr-Nam http://facebook.com/nam.nodemy
 // Các bạn muốn học lập trình thì tham gia Nhóm zalo tự học lập trình nhé: https://zalo.me/g/yhdkef092
-const giftImage = 'hot-girl.png';
+const giftImage = 'bht.png';
 const base64 = '';
 const giftImageBase64 = "data:image/png;base64, " + base64;
