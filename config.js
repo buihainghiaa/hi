@@ -1,8 +1,8 @@
-const nameGirl = 'BHT 💕💕';
-const giftUrl = 'https://www.facebook.com/thuong.buihuyen.1212';
+const nameGirl = ' 💕💕';
+const giftUrl = 'https://www.facebook.com/dunn236';
 const eventName = 'Hello 👋👋';
-const titleCard = 'BHT nè ';
-const contentCard = 'Đây là một cô bé dễ thươngg 🥰🤗🤪';
+const titleCard = 'Dungg nè ';
+const contentCard = 'Đây là một cô bé tính lóng như kem 🥰🤗🤪';
 
 
 const giftImage = 'bht.png';
