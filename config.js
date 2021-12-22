@@ -5,6 +5,6 @@ const titleCard = 'Dungg nè ';
 const contentCard = 'Đây là một cô bé tính lóng như kem 🥰🤗🤪';
 
 
-const giftImage = 'bht.png';
+const giftImage = 'ngodung.png';
 const base64 = '';
 const giftImageBase64 = "data:image/png;base64, " + base64;
